@@ -1,1 +1,3 @@
-# P8-T17-StanGabriel-IancuEduard-VladoianuElena
+# Stan Gabriel-Cristinel 
+# Iancu Eduard Florin
+# Vladoianu Claudia Elena
